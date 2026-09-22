@@ -46,8 +46,8 @@ I build AI-powered tools and full-stack web applications that solve real-world p
 | Project | What it does | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **🤖 AI Trading Agent** | Event-driven AI trading system using logistics signals, ML strategy selection, and risk-managed paper trading. | Python, scikit-learn, Pandas | [View Repo](https://github.com/Philipmag/magok_ai_trading_agent) |
-| **🛡️ Digital Guardians Redesign** | Modern TypeScript/React redesign of an educational cybersecurity platform for seniors, focused on WCAG accessibility. | TypeScript, React, Tailwind CSS | [View Repo](https://github.com/Philipmag/Digitalguardians.github.io) |
-| **💼 Senior Web Project** | Full-stack personal portfolio and showcase platform built with modern TypeScript and interactive React components. | TypeScript, React, Vite | [View Repo](https://github.com/Philipmag/philipmag.github.io) |
+| **🛡️ Digital Guardians** | AI-powered online safety platform for seniors — scam detection, cybersecurity education and WCAG-accessible interactive learning. | TypeScript, React, Tailwind CSS | [Live](https://digitalguards.ca) · [Repo](https://github.com/Philipmag/philipmag.github.io) |
+| **🧾 Ronflow** | Generates enterprise SOP handbooks by capturing real browser actions in sandboxed environments and narrating them with Google Gemini. | TypeScript, Gemini API | [View Repo](https://github.com/Philipmag/Ronflow) |
 | **📈 PulseOS** | AI marketing operating system that researches, creates, publishes and measures content autonomously, built around a per-brand data moat. | TypeScript, LLM APIs | [View Repo](https://github.com/Philipmag/PulseOs) |
 
 ---
@@ -63,7 +63,7 @@ I build AI-powered tools and full-stack web applications that solve real-world p
 ## 🤝 Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/joh-magok](https://linkedin.com/in/joh-magok)
-* **Portfolio:** [philipmag.github.io](https://philipmag.github.io)
+* **Portfolio:** [magok-portfolio](https://github.com/Philipmag/magok-portfolio) *(deploy pending)*
 * **Email:** [philipsmagok@gmail.com](mailto:philipsmagok@gmail.com)
 
 ---
