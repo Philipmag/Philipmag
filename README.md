@@ -48,15 +48,14 @@ I build AI-powered tools and full-stack web applications that solve real-world p
 | **🤖 AI Trading Agent** | Event-driven AI trading system using logistics signals, ML strategy selection, and risk-managed paper trading. | Python, scikit-learn, Pandas | [View Repo](https://github.com/Philipmag/magok_ai_trading_agent) |
 | **🛡️ Digital Guardians Redesign** | Modern TypeScript/React redesign of an educational cybersecurity platform for seniors, focused on WCAG accessibility. | TypeScript, React, Tailwind CSS | [View Repo](https://github.com/Philipmag/Digitalguardians.github.io) |
 | **💼 Senior Web Project** | Full-stack personal portfolio and showcase platform built with modern TypeScript and interactive React components. | TypeScript, React, Vite | [View Repo](https://github.com/Philipmag/philipmag.github.io) |
-| **🌳 Leaf-to-Leaf Finder** | High-performance C# implementation of maximum leaf-to-leaf path finding in a binary tree using DFS. | C#, .NET | [View Repo](https://github.com/Philipmag/Assignment2_B) |
+| **📈 PulseOS** | AI marketing operating system that researches, creates, publishes and measures content autonomously, built around a per-brand data moat. | TypeScript, LLM APIs | [View Repo](https://github.com/Philipmag/PulseOs) |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Philipmag&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Joh Magok's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philipmag&layout=compact&theme=radical&hide_border=true&hide=html" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philipmag&layout=compact&theme=radical&hide_border=true&hide=html" alt="Most Used Languages" width="60%" />
 </p>
 
 ---
@@ -64,7 +63,7 @@ I build AI-powered tools and full-stack web applications that solve real-world p
 ## 🤝 Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/joh-magok](https://linkedin.com/in/joh-magok)
-* **Portfolio:** [Magok.blog](https://magok-portfolio.vercel.app) *(or your deployed custom domain)*
+* **Portfolio:** [philipmag.github.io](https://philipmag.github.io)
 * **Email:** [philipsmagok@gmail.com](mailto:philipsmagok@gmail.com)
 
 ---
